@@ -2,7 +2,9 @@
 
 My name is Aleksey Yablunev and I'm a Python developer. I'm from Russia, and currently looking for the career opportunities
 
-- 🌱 I’m currently learning FastAPI
+Telegram: @FlausBack
+
+Mail: yablunev.av@gmail.com
 <!--
 **Fiklik/Fiklik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
