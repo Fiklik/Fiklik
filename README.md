@@ -7,8 +7,13 @@ Python Backend Developer
 I'm a Python developer and currently looking for the career opportunities
 
 * 🌍  I'm based in Russia
-* 🖥️  See my portfolio at [https://task-manager-qlk7.onrender.com/](http:///page-analyzer-si36.onrender.com/ )
 * ✉️  You can contact me at [yablunev.av@gmail.com](mailto:yablunev.av@gmail.com)
+
+### My Portfolio
+
+* https://task-manager-qlk7.onrender.com/
+* http:///page-analyzer-si36.onrender.com/
+
 
 ### Skills
 
