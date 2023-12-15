@@ -9,6 +9,10 @@ I'm a Python developer and currently looking for the career opportunities
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [yablunev.av@gmail.com](mailto:yablunev.av@gmail.com)
 
+### My CV
+
+https://cv.hexlet.io/ru/resumes/3286
+
 ### My Portfolio
 
 * [Task Manager](https://task-manager-qlk7.onrender.com/)
