@@ -11,8 +11,8 @@ I'm a Python developer and currently looking for the career opportunities
 
 ### My Portfolio
 
-* https://task-manager-qlk7.onrender.com/
-* http://page-analyzer-si36.onrender.com/
+* [Task Manager](https://task-manager-qlk7.onrender.com/)
+* [Page Analyzer](http://page-analyzer-si36.onrender.com/)
 
 
 ### Skills
